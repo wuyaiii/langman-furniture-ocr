@@ -1,0 +1,14 @@
+{
+  "auto_open_excel": false,
+  "show_confirmation": true,
+  "window_topmost": true,
+  "show_selection_border": false,
+  "selection_coordinates": {
+    "x1": 783,
+    "y1": 318,
+    "x2": 1132,
+    "y2": 736
+  },
+  "save_debug_images": true,
+  "debug_image_dir": "debug_images"
+}
